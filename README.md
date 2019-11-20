@@ -14,4 +14,9 @@ This is a Hangman game in python.
 
 
 
+
 The purpose of this game is to find the hidden word, but be careful you only have 5 attempts! Let's see, can you make it?
+
+
+
+Run: python HangmanGame.py
